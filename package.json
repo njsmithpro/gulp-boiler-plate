@@ -1,0 +1,29 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "gulp front end development boiler plate",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "\u0016\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njsmithpro/gulp-boiler-plate.git"
+  },
+  "author": "Nick Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njsmithpro/gulp-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/njsmithpro/gulp-boiler-plate#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.4.4",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.8",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-sass": "^4.11.0"
+  }
+}
